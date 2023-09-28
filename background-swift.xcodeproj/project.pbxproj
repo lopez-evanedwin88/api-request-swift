@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		04B6FC222AC56D8100A77193 /* tara-lets */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "tara-lets"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04B6FC222AC56D8100A77193 /* background-swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "background-swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B6FC252AC56D8100A77193 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		04B6FC192AC56D8100A77193 = {
 			isa = PBXGroup;
 			children = (
-				04B6FC242AC56D8100A77193 /* tara-lets */,
+				04B6FC242AC56D8100A77193 /* background-swift */,
 				04B6FC232AC56D8100A77193 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		04B6FC232AC56D8100A77193 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				04B6FC222AC56D8100A77193 /* tara-lets */,
+				04B6FC222AC56D8100A77193 /* background-swift */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		04B6FC242AC56D8100A77193 /* tara-lets */ = {
+		04B6FC242AC56D8100A77193 /* background-swift */ = {
 			isa = PBXGroup;
 			children = (
 				04B6FC252AC56D8100A77193 /* main.swift */,
 			);
-			path = "tara-lets";
+			path = "background-swift";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		04B6FC212AC56D8100A77193 /* tara-lets */ = {
+		04B6FC212AC56D8100A77193 /* background-swift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04B6FC292AC56D8100A77193 /* Build configuration list for PBXNativeTarget "tara-lets" */;
+			buildConfigurationList = 04B6FC292AC56D8100A77193 /* Build configuration list for PBXNativeTarget "background-swift" */;
 			buildPhases = (
 				04B6FC1E2AC56D8100A77193 /* Sources */,
 				04B6FC1F2AC56D8100A77193 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = "tara-lets";
+			name = "background-swift";
 			productName = "tara-lets";
-			productReference = 04B6FC222AC56D8100A77193 /* tara-lets */;
+			productReference = 04B6FC222AC56D8100A77193 /* background-swift */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 04B6FC1D2AC56D8100A77193 /* Build configuration list for PBXProject "tara-lets" */;
+			buildConfigurationList = 04B6FC1D2AC56D8100A77193 /* Build configuration list for PBXProject "background-swift" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				04B6FC212AC56D8100A77193 /* tara-lets */,
+				04B6FC212AC56D8100A77193 /* background-swift */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +265,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		04B6FC1D2AC56D8100A77193 /* Build configuration list for PBXProject "tara-lets" */ = {
+		04B6FC1D2AC56D8100A77193 /* Build configuration list for PBXProject "background-swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04B6FC272AC56D8100A77193 /* Debug */,
@@ -274,7 +274,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04B6FC292AC56D8100A77193 /* Build configuration list for PBXNativeTarget "tara-lets" */ = {
+		04B6FC292AC56D8100A77193 /* Build configuration list for PBXNativeTarget "background-swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04B6FC2A2AC56D8100A77193 /* Debug */,
